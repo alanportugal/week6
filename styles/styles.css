@@ -1,3 +1,4 @@
+/* Border for Images */
 img{
   height: 10rem;
   border: 1px solid black;
@@ -8,6 +9,8 @@ img:hover{
   border: 1px solid red;
 }
 
+
+/* Colors for Swatches*/
 .bg-black{
   background-color: black;
 }
@@ -23,3 +26,15 @@ img:hover{
 .bg-blue{
   background-color: blue;
 }
+
+
+/* Swatch CSS rules */
+.swatches li{
+  list-style-type: none;
+  border-radius: 50%;
+  height: 1rem;
+  width: 1rem;
+  float: left;
+  margin: .5em;
+}
+
