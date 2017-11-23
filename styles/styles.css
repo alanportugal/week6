@@ -63,3 +63,9 @@ h3, p{
   text-decoration: line-through;
   font-weight: bold;
 }
+
+/* Star Rating Element */
+.star{
+  color: red;
+  font-size: 1.5rem;
+}
