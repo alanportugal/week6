@@ -1,3 +1,8 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
 /* Container_Row rules that house groups of modules */
 .container_row{
   margin-right: 0px;
