@@ -7,3 +7,19 @@ img:hover{
   height: 10rem;
   border: 1px solid red;
 }
+
+.bg-black{
+  background-color: black;
+}
+
+.bg-orange{
+  background-color: orange;
+}
+
+.bg-gray{
+  background-color: gray;
+}
+
+.bg-blue{
+  background-color: blue;
+}
