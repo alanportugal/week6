@@ -4,6 +4,7 @@
   padding: 0;
 }
 
+
 /* Container_Row rules that house groups of modules */
 .container_row{
   margin-right: 0px;
@@ -51,6 +52,10 @@ img:hover{
 
 .bg-orange{
   background-color: orange;
+}
+
+.bg-darkred{
+  background-color:darkred;
 }
 
 .bg-gray{
