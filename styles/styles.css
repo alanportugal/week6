@@ -1,3 +1,20 @@
+/* Container_Row rules that house groups of modules */
+.container_row{
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.container_row:before,
+.container_row:after {
+  display: table;
+  content: " ";
+}
+
+.container_row:after {
+  clear: both;
+}
+
+
 /* Module rule for each image and text */
 .module{
   position: relative;
