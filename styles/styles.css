@@ -1,3 +1,9 @@
+/* Enforce standard font family rule */
+body{
+  font-family: Arial, sans-serif;
+  background-color: white;
+}
+
 /* Tightens up white space within modules */
 *{
   margin: 0;
