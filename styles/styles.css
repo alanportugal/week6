@@ -1,4 +1,9 @@
-*{
-  margin: 0;
-  padding: 0;
+img{
+  height: 10rem;
+  border: 1px solid black;
+}
+
+img:hover{
+  height: 10rem;
+  border: 1px solid red;
 }
