@@ -1,4 +1,5 @@
 Instructions
+
 Read: https://css-tricks.com/useful-nth-child-recipies/ (Links to an external site.)Links to an external site.
 Read: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions (Links to an external site.)Links to an external site.
 Play:http://easings.net/, http://cubic-bezier.com/ (Links to an external site.)Links to an external site.
