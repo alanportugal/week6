@@ -38,3 +38,15 @@ img:hover{
   margin: .5em;
 }
 
+.clearfix{
+  clear: both;
+}
+
+/* Rules for text underneath image */
+a{
+  text-decoration: none;
+}
+
+.underlineHover:hover{
+  text-decoration: underline;
+}
